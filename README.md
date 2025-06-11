@@ -1,5 +1,5 @@
 # 💫 About Me:
-IM a CS student who is into Problem solving and Web development
+I'm a CS student who is into Problem solving and Web development
 
 
 ## 🌐 Socials:
